@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.mid {
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    margin: 0;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.results {
+    width: 250px;
+    margin: auto;
+}
+
+.strike {
+    text-decoration: line-through;
+}
